@@ -1,7 +1,8 @@
 # mermaid-examples
 
+Experiment using mermaid with hugo
 
-
+Deployed here for now: https://sharp-curran-7b3006.netlify.com/
 
 
 
